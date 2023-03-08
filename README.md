@@ -8,9 +8,9 @@
       </td>
       <td>
         <h2> Sethu Raman Omanakuttan </h2>
-        <h6> 🥑 Developer Advocate @ Chainstack  </h6>
+        <h6> 🥑 Developer Advocate @ Chainstack.  </h6>
         <h6> 🛠️ BUIDLs on Ethereum, NEAR , Graph Protocol and Oasis.
-        <h6> 💻 Major is Computer Science and Technology. </h6>
+        <h6> 💻 Majored in computer science and technology. </h6>
         <a href="https://github.com/SethuRamanOmanakuttan">
          <img align="right" alt="Sethu Raman | GitHub" width="23px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d02961b018153506364077343b0edcde0a39d27e/svgs/brands/square-github.svg" />
         </a>
