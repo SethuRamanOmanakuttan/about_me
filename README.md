@@ -12,12 +12,12 @@
         <h6> 🛠️ BUIDLs on Ethereum, NEAR , Graph Protocol and Oasis.
         <h6> 💻 Majored in computer science and technology. </h6>
         <a href="https://github.com/SethuRamanOmanakuttan">
-         <img align="right" alt="Sethu Raman | GitHub" width="23px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d02961b018153506364077343b0edcde0a39d27e/svgs/brands/square-github.svg" />
+         <img align="right" alt="Sethu Raman | GitHub" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
         </a>
-        <img align="right" alt="Sethu Raman | Twitter" width="23px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d02961b018153506364077343b0edcde0a39d27e/svgs/brands/square-twitter.svg" />
+        <img align="right" alt="Sethu Raman | Twitter" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" />
         </a>
         <a href="https://www.linkedin.com/in/sethuraman-omanakuttan">
-        <img align="right" alt="Sethu Raman | LinkedIN" width="23px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d02961b018153506364077343b0edcde0a39d27e/svgs/brands/linkedin.svg" />
+        <img align="right" alt="Sethu Raman | LinkedIN" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />
         </a>
          </td> 
     </tr>
