@@ -14,6 +14,7 @@
         <a href="https://github.com/SethuRamanOmanakuttan">
          <img align="right" alt="Sethu Raman | GitHub" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
         </a>
+        <a href="https://twitter.com/Sethu_Raman_O">
         <img align="right" alt="Sethu Raman | Twitter" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg" />
         </a>
         <a href="https://www.linkedin.com/in/sethuraman-omanakuttan">
